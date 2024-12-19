@@ -1,0 +1,1 @@
+alert("Skrypt załadowany poprawnie")
